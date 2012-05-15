@@ -8,9 +8,9 @@ public class FileConcur {
 	
 	public static void main(String[] args){
 	String filename;
-	//filename=read();
-	//find(filename);
-	find("C:\\test.txt");
+	filename=read();
+	find(filename);
+	//find("C:\\test.txt");
 	}
 	
 	public static String read(){
